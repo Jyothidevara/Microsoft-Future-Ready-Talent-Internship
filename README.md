@@ -1,5 +1,5 @@
-# Fashions
- Fashions Ecommerce
+# F Fashions
+ F Fashions Ecommerce
 This is 10 Page E-commerce Front End website design
 
 Web Technologies used: HTML, CSS, JS, Bootstrap

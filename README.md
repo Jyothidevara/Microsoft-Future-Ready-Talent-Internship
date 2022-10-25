@@ -40,4 +40,4 @@ Core Idea of Project is to build an sample prototype E-Commerce Website with FAQ
 https://user-images.githubusercontent.com/112508997/197737312-52beec17-7f9e-4098-865d-b9745e707ca9.mp4
 
 **Video Url**
-https://sattvica.com/ffashions/demo
+https://sattvica.com/ffashions/demo.mp4
